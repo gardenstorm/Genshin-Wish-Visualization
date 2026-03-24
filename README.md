@@ -10,5 +10,10 @@ Tools used so far:
 - Google Colab
 - Python
 - Pandas
+- Matplotlib
 - Gemini
 - Claude
+
+Tools I will use soon:
+- JavaScript
+- Genshin.dev API
